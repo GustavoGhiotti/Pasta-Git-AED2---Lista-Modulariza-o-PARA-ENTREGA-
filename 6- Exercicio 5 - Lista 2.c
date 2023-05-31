@@ -4,6 +4,9 @@ Gustavo Zandona Ghiotti
 
 01/03/2023
 
+Crie um programa que leia 6 valores inteiros e, em seguida, mostre na tela os
+valores lidos na ordem inversa.
+
 *******************************************************************************/
 #include <stdio.h>
 #include <stdlib.h>

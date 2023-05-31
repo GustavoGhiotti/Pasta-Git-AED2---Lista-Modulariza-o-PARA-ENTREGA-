@@ -4,6 +4,11 @@ Gustavo Zandona Ghiotti
 
 15/02/2023
 
+Escreva um algoritmo para ler o número total de eleitores de um município, o número de votos brancos, nulos e
+válidos. Calcular e escrever o percentual que cada um representa em relação ao total de eleitores.
+a) Escreva as saídas, entradas e o processamento
+b) Implemente em linguagem C
+
 *******************************************************************************/
 
 #include <stdio.h>

@@ -3,8 +3,12 @@
  
  22/03/2023
  
- Lista Modulariza��o - Exerc�cio 3
+ Lista Modulariza��o - Exerc�cio 3
  
+ Escreva um programa que calcule a área de um círculo a partir de uma funcão 
+especialmente desenhada para isso; essa funcão recebe o valor do raio e retorna a área do círculo.
+
+
 *******************************************************************************/
 #include <stdio.h>
 
